@@ -24,4 +24,6 @@ void main()
 		printf("\t\n");
 	}
 	getch();
+	getch();
+	getch();
 }
